@@ -1,0 +1,16 @@
+.DS_Store
+*.obj
+*.pdb
+*.idb
+*.opensdf
+*.suo
+*.ncb
+*.sbr
+*.ipch
+*.sdf
+*.log
+*.tlog
+*.vcxproj.user
+*.csproj.user
+Debug
+ARM
